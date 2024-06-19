@@ -1,1 +1,2 @@
-# OperaGX_Discord_Nitro_Generator
+# Gerador de Discord Nitro #
+Apenas passando para atualizar aqui e dizer que funcionou por um período limitado de tempo, porém deu para gerar mais de 500mil códigos de Discord Nitro Gift, através do OperaGX
